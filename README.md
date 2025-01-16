@@ -17,7 +17,8 @@ I'm a **Web Developer** passionate about designing and building **modern**, **sc
 
 ### 🌐 Backend Development  
 - 💎 **PHP** – Writing efficient and robust backend solutions.  
-- 🌐 **Flask** – Developing lightweight and flexible web applications with Python.  
+- 🌐 **Flask** – Developing lightweight and flexible web applications with Python.
+-🗄️ **SQL**– Management and manipulation of relational databases.  
 
 ### ⚙️ Tools & DevOps  
 - 🎮 **Git** – Tracking changes and managing code collaboratively.  
