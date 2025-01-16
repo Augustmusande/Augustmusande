@@ -46,6 +46,6 @@ Feel free to reach out to me for **collaborative opportunities**, freelance proj
 - 💼 **LinkedIn**: [linkedin.com/in/augustmusande](https://linkedin.com/in/augustmusande)  
 - 🐦 **Twitter**: [@AugustMusande](https://twitter.com/AugustMusande)  
 - 🌐 **Portfolio**: Coming soon (🔜)!  
-
+<i class="fab fa-git"></i> Git  – Suivre les changements et gérer le code de manière collaborative
 Let’s connect and create something amazing together! 🚀  
 
