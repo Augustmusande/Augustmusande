@@ -1,28 +1,28 @@
-
 # 👋 Hi, I’m @Augustmusande  
 
 Welcome to my GitHub profile!  
 I'm a **Web Developer** passionate about designing and building **modern**, **scalable**, and **user-centric** web applications. My journey in tech is fueled by curiosity, continuous learning, and a drive to innovate.  
-
 
 ---
 
 ## 🔧 Technologies & Tools  
 
 ### 🌟 Frontend Development  
-- 🔖 **HTML5, CSS3, JavaScript** – The foundation of modern web development.  
-- 🎨 **TailwindCSS** – Accelerating styling with a utility-first CSS framework.  
-- ⚛️ **React.js** – Building reusable components for seamless user interfaces. (🔜 Soon)  
-- 🛡️ **TypeScript** – Ensuring type safety and scalability in applications. (🔜 Soon)  
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** – The foundation of modern web development.  
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **TailwindCSS** – Accelerating styling with a utility-first CSS framework.  
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React.js** – Building reusable components for seamless user interfaces. (🔜 Soon)  
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript** – Ensuring type safety and scalability in applications. (🔜 Soon)  
 
 ### 🌐 Backend Development  
-- 💎 **PHP** – Writing efficient and robust backend solutions.  
-- 🌐 **Flask** – Developing lightweight and flexible web applications with Python.
-- 🗄️ **SQL**– Management and manipulation of relational databases.  
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) **PHP** – Writing efficient and robust backend solutions.  
+- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) **Flask** – Developing lightweight and flexible web applications with Python.
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) **SQL**– Management and manipulation of relational databases.  
 
 ### ⚙️ Tools & DevOps  
-- 🎮 **Git** – Tracking changes and managing code collaboratively.  
-- ☁️ **AWS** – Harnessing the cloud for hosting, storage, and scalable infrastructure.  
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git** – Tracking changes and managing code collaboratively.  
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **AWS** – Harnessing the cloud for hosting, storage, and scalable infrastructure.  
 
 ---
 
@@ -47,5 +47,4 @@ Feel free to reach out to me for **collaborative opportunities**, freelance proj
 - 🐦 **Twitter**: [@AugustMusande](https://twitter.com/AugustMusande)  
 - 🌐 **Portfolio**: [View my portfolio](https://augustmusande.github.io/my-portfolio/)
     
-Let’s connect and create something amazing together! 🚀  
-
+Let’s connect and create something amazing together! 🚀
