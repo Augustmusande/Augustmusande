@@ -1,4 +1,27 @@
-## 👋 Hi, I’m @Augustmusande  ##
+<h1 style="font-size: 3em;">👋 Hi, I’m @Augustmusande</h1>
+
+<style>
+@keyframes wave {
+  0% { transform: rotate(0.0deg); }
+  10% { transform: rotate(14.0deg); }
+  20% { transform: rotate(-8.0deg); }
+  30% { transform: rotate(14.0deg); }
+  40% { transform: rotate(-4.0deg); }
+  50% { transform: rotate(10.0deg); }
+  60% { transform: rotate(0.0deg); }
+  100% { transform: rotate(0.0deg); }
+}
+
+.wave-hand {
+  display: inline-block;
+  animation-name: wave;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%;
+}
+</style>
+
+<h1> <span class="wave-hand">👋</span> Hi, I’m @Augustmusande</h1>
 
 Welcome to my GitHub profile!  
 I'm a **Web Developer** passionate about designing and building **modern**, **scalable**, and **user-centric** web applications. My journey in tech is fueled by curiosity, continuous learning, and a drive to innovate.  
