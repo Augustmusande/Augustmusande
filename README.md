@@ -42,9 +42,9 @@ It serves as a hub for collaboration, networking, and knowledge sharing, creatin
 ## 📞 Contact  
 
 Feel free to reach out to me for **collaborative opportunities**, freelance projects, or just to share ideas!  
-- 📧 **Email**: [augustmusande@gmail.com](mailto:augustmusande@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/augustmusande](https://linkedin.com/in/augustmusande)  
-- 🐦 **Twitter**: [@AugustMusande](https://twitter.com/AugustMusande)  
-- 🌐 **Portfolio**: [View my portfolio](https://augustmusande.github.io/my-portfolio/)
+- ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white) **Email**: [augustmusande@gmail.com](mailto:augustmusande@gmail.com)  
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn**: [linkedin.com/in/augustmusande](https://linkedin.com/in/augustmusande)  
+- ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white) **Twitter**: [@AugustMusande](https://twitter.com/AugustMusande)  
+- ![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white) **Portfolio**: [View my portfolio](https://augustmusande.github.io/my-portfolio/)
     
 Let’s connect and create something amazing together! 🚀
