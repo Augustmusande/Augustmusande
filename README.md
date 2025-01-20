@@ -35,7 +35,7 @@ One of the most exciting and collaborative projects I’m currently part of is:
 A **social network platform** connecting students across Congo.  
 It serves as a hub for collaboration, networking, and knowledge sharing, creating a strong sense of community among students.  
 
-🔗 Explore Campus Face: [www.campusface.net](http://www.campusface.net)  
+🔗 Explore Campus Face: [campusface](http://www.campusface.net)  
 
 ---
 
