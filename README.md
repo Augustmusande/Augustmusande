@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Augustmusande  ###
+# 👋 Hi, I’m @Augustmusande  
 
 Welcome to my GitHub profile!  
 I'm a **Web Developer** passionate about designing and building **modern**, **scalable**, and **user-centric** web applications. My journey in tech is fueled by curiosity, continuous learning, and a drive to innovate.  
