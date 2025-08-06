@@ -27,7 +27,7 @@ I'm a **Web Developer** passionate about designing and building **modern**, **sc
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/></td>
-    <td>Building reusable components for seamless user interfaces. (🔜 Soon)</td>
+    <td>Building reusable components for seamless user interfaces. </td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></td>
