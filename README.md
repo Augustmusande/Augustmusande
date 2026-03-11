@@ -31,7 +31,7 @@ I'm a **Web Developer** passionate about designing and building **modern**, **sc
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-    <td>Ensuring type safety and scalability in applications. (🔜 Soon)</td>
+    <td>Ensuring type safety and scalability in applications</td>
   </tr>
 </table>
 
