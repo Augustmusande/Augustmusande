@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Augustmusande  
+# 👋 Hi, I'm @Augustmusande  
 
 Welcome to my GitHub profile!  
 I'm a **Web Developer** passionate about designing and building **modern**, **scalable**, and **user-centric** web applications. My journey in tech is fueled by curiosity, continuous learning, and a drive to innovate.  
@@ -46,6 +46,10 @@ I'm a **Web Developer** passionate about designing and building **modern**, **sc
     <td>Developing lightweight and flexible web applications with Python.</td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/></td>
+    <td>Building robust and scalable web applications with a full-featured Python framework.</td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL"/></td>
     <td>Management and manipulation of relational databases.</td>
   </tr>
@@ -68,7 +72,7 @@ I'm a **Web Developer** passionate about designing and building **modern**, **sc
 ## 🎨 My Projects  
 
 I'm actively working on multiple projects, primarily contributing as a **frontend developer**.  
-One of the most exciting and collaborative projects I’m currently part of is:  
+One of the most exciting and collaborative projects I'm currently part of is:  
 
 ### 🌍 **Campus Face**  
 A **social network platform** connecting students across Congo.  
@@ -100,4 +104,4 @@ Feel free to reach out to me for **collaborative opportunities**, freelance proj
   </tr>
 </table>
 
-Let’s connect and create something amazing together! 🚀
+Let's connect and create something amazing together! 🚀
